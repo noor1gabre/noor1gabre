@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Noor Hossam
 
-<!--
-**noor1gabre/noor1gabre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about *Data Engineering, **ETL , **software development, and **BI* solutions
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *ETL & Data Warehousing*: SSIS, Informatica Axon/IDQ/EDC and informatica IDMC
+- *SQL*: SQL Server, T-SQL, PL-SQL
+- *Visualization*: Tableau, SSRS , power BI
+- *Programming*: senior level Python , JS , Java
+
+---
+
+📬 *Let's connect:*
+- GitHub: [NoorHossam](https://github.com/NoorHossam) (change this if your username is different)
+- Email: noorgabre215@gmaill.com
+
+---
+
+“Data is the new oil – but only if you refine it right.”
