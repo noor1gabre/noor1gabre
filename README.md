@@ -2,7 +2,7 @@
 
 🚀 Passionate about *Data Engineering, **ETL , **software development, and **BI* solutions
 
-[![noorgabre's GitHub stats](https://github-readme-stats.vercel.app/api?username=noor1gabre&show_icons=true&theme=radical)](https://github.com/noor1gabre/github-readme-stats)
+
 
 ## 🧰 Tech Stack
 
