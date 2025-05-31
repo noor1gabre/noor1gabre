@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Noor Hossam
 
 🚀 Passionate about *Data Engineering, **ETL , **software development, and **BI* solutions
-[![noorgabre's GitHub stats](https://github-readme-stats.vercel.app/api?username=noor1gabre)](https://github.com/noor1gabre/github-readme-stats)
+[![noorgabre's GitHub stats](https://github-readme-stats.vercel.app/api?username=noor1gabre&show icons = true)](https://github.com/noor1gabre/github-readme-stats)
 ## 🧰 Tech Stack
 
 - *ETL & Data Warehousing*: SSIS, Informatica Axon/IDQ/EDC and informatica IDMC
